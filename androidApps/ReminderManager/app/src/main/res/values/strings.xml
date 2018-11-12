@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReminderManager</string>
+    <string name="create_new_list">Create New List</string>
+</resources>
